@@ -1,0 +1,6 @@
+Attrs	Asset_1	Asset_2
+Expected_return	0.2200	0.3300
+Volatility	0.1000	0.1400
+Coefficient	-0.3100
+Risk_aversion	3.0000
+Risk_free	0.0500
